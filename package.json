@@ -1,0 +1,17 @@
+{
+  "name": "bun-hot-dev-server",
+  "description": "A project template with hot reload dev server using `bun`",
+  "author": "Mikita Stankiewicz <itsmikita@gmail.com>",
+  "private": "true",
+  "version": "0.0.2",
+  "type": "module",
+  "module": "index.ts",
+  "dependencies": {
+    "bun": "latest",
+    "bun-types": "latest",
+    "typescript": "latest"
+  },
+  "scripts": {
+    "dev": "bun --hot dev.tsx"
+  }
+}

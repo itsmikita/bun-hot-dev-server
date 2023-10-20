@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+*.local
+*.log
+build
+bun.lockb
+dist
+node_modules
+package-lock.json

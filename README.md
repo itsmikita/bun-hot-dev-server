@@ -1,2 +1,8 @@
 # bun-hot-dev-server
-An attempt to all-in-one-toolkit with `env`
+
+A project template with hot reload dev server using `bun`.
+
+## How to use
+
+- Use template button
+- Run `bun install`
